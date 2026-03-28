@@ -2,7 +2,7 @@
 
 This is a simple Python script that allows you to download YouTube videos using the **yt_dlp** library.
 
----
+
 
 ## Requirements
 
